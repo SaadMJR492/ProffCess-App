@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45bfb0dc-4f5f-499e-a7ee-f7e6f286dde1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/profcess_dev-2.0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/profcess_dev-2.0/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profcess_dev-2.0/.idea/profcess_dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/profcess_dev-2.0/.idea/profcess_dev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profcess_dev-2.0/accounts/templates/registration/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/profcess_dev-2.0/accounts/templates/registration/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profcess_dev-2.0/site_id_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/profcess_dev-2.0/site_id_script.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/profcess_dev-2.0" />
+  </component>
+  <component name="ProjectId" id="1xTlNYDREbdFNpAOwnZ2GKCMAHq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Profcess_Android_Developement" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45bfb0dc-4f5f-499e-a7ee-f7e6f286dde1" name="Changes" comment="" />
+      <created>1630386919305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630386919305</updated>
+    </task>
+    <servers />
+  </component>
+</project>
